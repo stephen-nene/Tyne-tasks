@@ -46,7 +46,7 @@
 ## b. Featured products
 - Show a list of the top selling, most popular, featured products, new products etc.
 
-## c. About us section
+## c. About us section / product categories section
 - what the company is about in a brief 
 - Short description of the company
 - Where they serve
@@ -135,4 +135,16 @@
     - User enter the email to get the access token
     - Use the token or link to enter a new password and confirmation
     - if all passes are successful then redirect and send a confirmation email
+- 
+
+# 11. Dashboard 
+## a. admins roles
+- CRUD orders in the site
+- CRUD the users in the database
+- Manage inventory 
+- Modify his own account details 
+- View a detailed report on the sales
+## b. Customer roles  
+- Modify his own account details 
+- See/manage their own orders
 - 

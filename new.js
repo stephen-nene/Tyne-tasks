@@ -1,2 +1,2 @@
-const nene = "software develoer";
+const nene = "software developer";
 
